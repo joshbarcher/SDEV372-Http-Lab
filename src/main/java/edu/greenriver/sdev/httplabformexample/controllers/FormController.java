@@ -1,6 +1,6 @@
-package edu.greenriver.sdev.httplab.controllers;
+package edu.greenriver.sdev.httplabformexample.controllers;
 
-import edu.greenriver.sdev.httplab.model.Registration;
+import edu.greenriver.sdev.httplabformexample.model.Registration;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;

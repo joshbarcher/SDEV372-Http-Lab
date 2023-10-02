@@ -1,4 +1,4 @@
-package edu.greenriver.sdev.httplab.model;
+package edu.greenriver.sdev.httplabformexample.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
